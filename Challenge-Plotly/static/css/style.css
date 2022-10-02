@@ -1,0 +1,13 @@
+/* change the background of webpage */
+body {
+    background-color: rgb(174, 209, 232);
+}
+
+/* add an image to the jumbotron */
+.jumbotron {
+    background-image: url("C:\Users\ahm88\Class\Plotly\Challenge\static\images\DNA.jpg");    
+    background-size: 100% 100%;
+    text-align: center;
+    color: #f7f7f7;
+    font-family: 'Optima', sans-serif;
+}
